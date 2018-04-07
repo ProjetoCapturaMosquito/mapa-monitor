@@ -1,0 +1,12 @@
+.map{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 80%;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.leaflet-container{
+    height: 30rem;
+}
