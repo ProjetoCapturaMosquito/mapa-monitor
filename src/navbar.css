@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-size: 24px;
+    color: rgba(255, 228, 196, 0.76)!important;
+}
+
+.navbar-inverse{
+    background-color: black;
+    box-shadow: 2px 3px 2px gray;
+}

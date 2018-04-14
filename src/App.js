@@ -2,17 +2,14 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import MapContainer from './map';
+import Header from './navbar'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Welcome</h1>
-        </header>
+        <Header />
         <div className="map"><MapContainer /></div>
-        <footer className="App-footer">
-        </footer>
       </div>
     );
   }
