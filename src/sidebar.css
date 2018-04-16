@@ -10,3 +10,29 @@ li.active{
 .sidebar-pane.active{
     background-color: white!important;
 }
+
+.sidebar-pane p{
+    margin-top: 2rem;
+}
+
+form{
+    margin-top: 7rem;
+    text-align: left;
+    display: grid;
+}
+
+label{
+    margin-bottom: 3rem;
+    text-align: center;
+    
+}
+
+input{
+    margin-left: 1rem;
+    text-align: center;
+    border-radius: 7px;
+}
+
+input[type="submit"]{
+    border-radius: 7px;
+}

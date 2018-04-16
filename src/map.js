@@ -82,7 +82,9 @@ class MapContainer extends Component {
                                 Longitude:
                             <input type="text" value={this.state.lngMarker} onChange={this.handleChange2} />
                             </label>
+                            <label>
                             <input type="submit" value="Submit" />
+                            </label>
                         </form>
                     </Tab>
                     <Tab id="settings" header="Settings" icon="fa fa-cog" anchor="bottom">
