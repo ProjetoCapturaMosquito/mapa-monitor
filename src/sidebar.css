@@ -1,0 +1,12 @@
+.sidebar-header{
+    background-color: #5a5a5a;
+    border-radius: 16px;
+}
+li.active{
+    background-color:#5a5a5a!important;
+    border-radius: 16px;
+}
+
+.sidebar-pane.active{
+    background-color: white!important;
+}

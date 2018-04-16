@@ -1,9 +1,12 @@
 .navbar-brand{
     font-size: 24px;
-    color: rgba(255, 228, 196, 0.76)!important;
+    color: #ffe4c4c2!important;
+    margin-left: 2rem;
 }
 
 .navbar-inverse{
     background-color: black;
     box-shadow: 2px 3px 2px gray;
+    margin-bottom: 0;
+    z-index: 2;
 }
